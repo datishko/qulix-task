@@ -1,0 +1,9 @@
+export const DATA_LOADING = 'DATA_LOADING';
+export const LOADING_ERROR = 'LOADING_ERROR';
+export const DRAWER_TOGGLE = 'DRAWER_TOGGLE';
+export const CHOISE_MENU_ITEM = 'CHOISE_MENU_ITEM';
+export const SET_LOCATION_DATA = 'SET_LOCATION_DATA';
+export const SET_INBOX = 'SET_INBOX';
+export const SET_SENT = 'SET_SENT';
+export const SET_DRAFTS = 'SET_DRAFTS';
+export const SET_TRASH = 'SET_TRASH';
